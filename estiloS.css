@@ -6,7 +6,8 @@ button
 	padding: 1%
 	border:0.3cm double;
 	border-color: white;
-	width: 20%
+	width: 40%;
+	height: 15%; 
 }
 p
 {
@@ -17,13 +18,7 @@ div
 {
 	text-align: center;
 }
-section
-{
-	background-color: black;
-	width: 40%;
-	height: 25%;
-	font-family: Gill Sans Nova Light;
-}
+
 h2,h3
 {
 	font-family: Gill Sans Nova Light;
